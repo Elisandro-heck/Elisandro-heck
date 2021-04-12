@@ -1,6 +1,5 @@
 ## Welcome to my GitHub 
 
-
 Loading...
 
 Sou estudante de Tecnologia em Desenvolvimento de Sistemas na OPET.
@@ -15,3 +14,7 @@ Nos últimos 20 trabalhei com Garantia da Qualidade em área diversas de negóci
 
 Na Gerdau participei de um grande projeto de Integração do SAP e sistemas Periféricos chamado Template.
 Aprendendo um pouco a cada dia! #LifeLongLearnig
+
+https://www.linkedin.com/in/elisandro-heck/
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elisandro-heck&show_icons=true&locale=en" alt="Elisandro Hecks" />
